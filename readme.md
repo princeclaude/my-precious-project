@@ -1,2 +1,3 @@
 this is a sample for learning how git works... please dont judge me...
 learning software development has been an amazing journey
+this code has the possibility of helping junior developers in all ramification
